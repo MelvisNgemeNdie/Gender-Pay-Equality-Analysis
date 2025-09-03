@@ -1,4 +1,4 @@
-# Gender-Pay-Equality-Analysis
+# Gender Pay Equality Analysis
 ##  Description
 This project focuses on analyzing **gender pay equality** at **Daikibo Manufacturing Company**.  
 Using Tableau calculated fields, I developed an **Equality Scoring Model** to classify compensation fairness into categories:
