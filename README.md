@@ -26,9 +26,6 @@ The analysis revealed large discrepancies across employee groups, with notable g
 
 ### Recommendations
 - Conduct **regular equal pay audits** to ensure fairness.
-
-
----
 - Implement **mandatory gender wage reporting** for transparency.  
 - Establish **comprehensive pay transparency policies** to promote accountability.  
 - Use the **Equality Scoring Model** for continuous monitoring.  
