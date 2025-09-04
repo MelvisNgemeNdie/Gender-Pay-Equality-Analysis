@@ -1,5 +1,5 @@
-# Gender Pay Equality Analysis
-##  Project Overview
+## Gender Pay Equality Analysis
+###  Project Overview
 This project focuses on analyzing **gender pay equality** at **Daikibo Manufacturing Company**.  
 Using Tableau calculated fields, I developed an **Equality Scoring Model** to classify compensation fairness into categories:
 - **Fair**
@@ -10,21 +10,21 @@ The analysis revealed large discrepancies across employee groups, with notable g
 
 ---
 
-##  The Problem
+###  The Problem
 - HR reported an **increasing number of internal complaints** regarding salary inequality.  
 - The **"Unfair" equality class** accounted for the highest proportion of compensation (**47.3%**).  
 - Significant concerns were raised about **bias in employee compensation** and lack of transparency.
 
 ---
 
-## Insights
+### Insights
 - Large discrepancies in pay distribution across employee groups.  
 - Nearly half of compensation fell into the **Unfair category**, indicating systemic inequality.  
 - Gender inequality was most prevalent in mid-level and senior roles.  
 
 ---
 
-## Recommendations
+### Recommendations
 - Conduct **regular equal pay audits** to ensure fairness.
 
 
@@ -35,7 +35,7 @@ The analysis revealed large discrepancies across employee groups, with notable g
 
 ---
 
-## Skills Used
+### Skills Used
 - **SQL** – Extracted and prepared employee compensation data  
 - **Tableau** – Built dashboards and scoring models with calculated fields  
 - **Data Analysis** – Classified employee salaries into fairness categories  
@@ -44,7 +44,7 @@ The analysis revealed large discrepancies across employee groups, with notable g
 
 ---
 
-## Equality Scoring Model (Calculated Field)
+### Equality Scoring Model (Calculated Field)
 The Tableau **calculated field** used for classification:  
 
 ```sql
@@ -54,3 +54,5 @@ ELSEIF ([Equality Score] < -10 AND [Equality Score] >= -20)
 ELSEIF ([Equality Score] <= 100 AND [Equality Score] > 20)
    OR ([Equality Score] < -20 AND [Equality Score] >= -100) THEN "Highly Discriminative"
 END
+
+---
