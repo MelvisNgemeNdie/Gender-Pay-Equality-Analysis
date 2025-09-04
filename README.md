@@ -54,5 +54,6 @@ ELSEIF ([Equality Score] < -10 AND [Equality Score] >= -20)
 ELSEIF ([Equality Score] <= 100 AND [Equality Score] > 20)
    OR ([Equality Score] < -20 AND [Equality Score] >= -100) THEN "Highly Discriminative"
 END
+```
 
 ---
