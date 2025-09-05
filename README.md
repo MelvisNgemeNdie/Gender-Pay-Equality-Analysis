@@ -42,7 +42,7 @@ ELSEIF ([Equality Score] <= 100 AND [Equality Score] > 20)
 END
 ```
 ---
-### Proportion of Equality Class Preview
+###  Equality Score Preview
 ![Proportion of Equality Class](./Proportion%20Of%20Equality%20Class.PNG)
 ### Key Takeaway
 - The analysis revealed that 47.3% of compensation fell into the “Unfair” category, with mid- to senior-level roles showing the widest gender pay gaps.
