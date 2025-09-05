@@ -42,8 +42,6 @@ ELSEIF ([Equality Score] <= 100 AND [Equality Score] > 20)
 END
 ```
 ---
-###
-
 ## Proportion of Equality Class Preview
 ![Proportion of Equality Class](./Proportion%20Of%20Equality%20Class.PNG)
 
