@@ -45,6 +45,7 @@ END
 ### Key Takeaway
 - The analysis revealed that 47.3% of compensation fell into the “Unfair” category, with mid- to senior-level roles showing the widest gender pay gaps.
 Daikibo Manufacturing must prioritize equal pay audits, enforce transparency policies, and adopt continuous monitoring to build fairness and employee trust.
+
  **Potential Impact Projection**
 - Reducing the “Unfair” segment by 20% could restore equity for hundreds of employees and improve retention.
 - Implementing transparency and audits can help decrease HR complaints by 30–40% annually.
