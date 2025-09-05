@@ -42,7 +42,7 @@ ELSEIF ([Equality Score] <= 100 AND [Equality Score] > 20)
 END
 ```
 ---
-### Takeaway
+### Key Takeaway
 - The analysis revealed that 47.3% of compensation fell into the “Unfair” category, with mid- to senior-level roles showing the widest gender pay gaps.
 Daikibo Manufacturing must prioritize equal pay audits, enforce transparency policies, and adopt continuous monitoring to build fairness and employee trust.
  **Potential Impact Projection**
